@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nicktfranklin.github.io/about//sitemap.xml
+Sitemap: https://nicktfranklin.github.io//sitemap.xml
