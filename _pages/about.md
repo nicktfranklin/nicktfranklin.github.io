@@ -25,7 +25,7 @@ My research focus is on machine learning and computational models of intelligenc
 
 Most recently, I was at a startup (Hyperscience) doing deep learning research in computer vision and natural language processing.  Before that, I was a Postdoc in [Sam Gershman's lab at Harvard](https://gershmanlab.com). I did my PhD work with [Michael Frank at Brown University](https://www.lnccbrown.com).  
 
-I'm based in Brooklyn and I enjoy surfing, reading and hanging out with my family. In that picture of me playing chess, I am loosing badly.
+I'm based in Brooklyn and I enjoy surfing, reading and hanging out with my family. In that picture of me playing chess, I am losing badly.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
