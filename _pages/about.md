@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I am a scientist working in machine learning and cognitive science. 
 
-My research focus is on machine learning and computational models of intelligence, and I am deeply interested in how both people and machines learn. My current reaserch includes reinforcement learning and deep generative models.
+My research focus is on machine learning and computational models of intelligence, and I am deeply interested in how both people and machines learn. My reaserch includes reinforcement learning and generative models.
 
-Most recently, I was at a startup (Hyperscience) doing deep learning research in computer vision and natural language processing.  Before that, I was a Postdoc in [Sam Gershman's lab at Harvard](https://gershmanlab.com). I did my PhD work with [Michael Frank at Brown University](https://www.lnccbrown.com).  
+Currently, I am a Senior Scientist at Flagship Pioneering. Previously, I was a postdoctoral researcher at Harvard University, working in the [Computational Cognitive Neuroscience Lab](https://gershmanlab.com) working with Sam Gershman. I recieved my PhD in Cognitive Science from Brown University, where I worked with [Michael J. Frank](https://www.lnccbrown.com).  
 
-I'm based in Brooklyn and I enjoy surfing, reading and hanging out with my family. In that picture of me playing chess, I am losing badly.
+I'm split my time between Brooklyn and Cambridge. I enjoy surfing, reading and hanging out with my family. In that picture of me playing chess, I am losing badly.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
