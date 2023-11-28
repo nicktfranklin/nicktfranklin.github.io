@@ -19,11 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a scientist working in machine learning and cognitive science. 
+Hello! I am a scientist working in machine learning.  Currently, I am a Senior Scientist at Flagship Pioneering. Previously, I was a postdoctoral researcher at Harvard University, working in the [Computational Cognitive Neuroscience Lab](https://gershmanlab.com) working with Sam Gershman. I recieved my PhD in Cognitive Science from Brown University, where I worked with [Michael J. Frank](https://www.lnccbrown.com).  
 
 My research focus is on machine learning and computational models of intelligence, and I am deeply interested in how both people and machines learn. My reaserch includes neural networks, reinforcement learning, and generative models.
-
-Currently, I am a Senior Scientist at Flagship Pioneering. Previously, I was a postdoctoral researcher at Harvard University, working in the [Computational Cognitive Neuroscience Lab](https://gershmanlab.com) working with Sam Gershman. I recieved my PhD in Cognitive Science from Brown University, where I worked with [Michael J. Frank](https://www.lnccbrown.com).  
 
 I'm split my time between Brooklyn and Cambridge. I enjoy surfing, reading and hanging out with my family. In that picture of me playing chess, I am losing badly.
 
