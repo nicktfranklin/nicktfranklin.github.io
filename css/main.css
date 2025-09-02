@@ -186,8 +186,9 @@ blockquote {
 }
 
 .navbar {
-  box-shadow: 0px;
+  box-shadow: none !important;
   background-color: var(--global-bg-color);
+  border: none;
 }
 
 .navbar.navbar-light a:hover {
@@ -430,6 +431,10 @@ footer.sticky-bottom {
 .publications ol.bibliography li .abbr abbr {
   display: inline-block;
   background-color: var(--global-theme-color);
+  color: white;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.8rem;
+  border-radius: 0.25rem;
 }
 .publications ol.bibliography li .abbr abbr a {
   color: white;
@@ -440,6 +445,16 @@ footer.sticky-bottom {
 .publications ol.bibliography li .abbr .award {
   color: var(--global-theme-color) !important;
   border: 1px solid var(--global-theme-color);
+}
+
+.badge {
+  display: inline-block;
+  background-color: var(--global-theme-color);
+  color: white !important;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.8rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
 }
 .publications ol.bibliography li .title {
   font-weight: bolder;
